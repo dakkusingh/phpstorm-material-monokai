@@ -1,2 +1,3 @@
-# phpstorm-material-monokai
-Phpstorm Material Monokai Theme
+# Phpstorm Material Monokai Theme
+
+Monokai port to match Material UI Theme.
